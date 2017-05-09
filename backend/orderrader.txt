@@ -1,0 +1,602 @@
+﻿[
+    {
+        "ordernummer": 10032,
+        "artikel": "Taklampa Patrick",
+        "antal": "5",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Flexskarv",
+        "antal": "9",
+        "styckpris": "669.0149"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Takplafond Arvika",
+        "antal": "4",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Takplafond Arvika",
+        "antal": "8",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Transformator Elektronisk",
+        "antal": "9",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Taklampa Glamour",
+        "antal": "1",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Spotlight Haloclip",
+        "antal": "2",
+        "styckpris": "745.2428"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Transformator Elektronisk",
+        "antal": "3",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Takplafond Saturn",
+        "antal": "9",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Transformator Elektronisk",
+        "antal": "1",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10026,
+        "artikel": "Taklampa Patrick",
+        "antal": "10",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Takplafond Saturn",
+        "antal": "3",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Transformator Elektronisk",
+        "antal": "3",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Taklampa Jakarta",
+        "antal": "7",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10026,
+        "artikel": "Spotlight Haloclip",
+        "antal": "8",
+        "styckpris": "745.2428"
+    },
+    {
+        "ordernummer": 10025,
+        "artikel": "Taklampa Patrick",
+        "antal": "2",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10026,
+        "artikel": "Flexskarv",
+        "antal": "9",
+        "styckpris": "791.2487"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Takplafond Saturn",
+        "antal": "10",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10026,
+        "artikel": "Takplafond Saturn",
+        "antal": "3",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Flexskarv",
+        "antal": "9",
+        "styckpris": "791.2487"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Transformator Elektronisk",
+        "antal": "3",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Vägglampa Selma",
+        "antal": "2",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Vägglampa Selma",
+        "antal": "4",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Taklampa Glamour",
+        "antal": "7",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Takplafond Arvika",
+        "antal": "3",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Taklampa Jakarta",
+        "antal": "5",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Taklampa Patrick",
+        "antal": "3",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Vägglampa Selma",
+        "antal": "9",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Flexskarv",
+        "antal": "3",
+        "styckpris": "791.2487"
+    },
+    {
+        "ordernummer": 10033,
+        "artikel": "Taklampa Jakarta",
+        "antal": "9",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Flexskarv",
+        "antal": "6",
+        "styckpris": "791.2487"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Flexskarv",
+        "antal": "5",
+        "styckpris": "669.0149"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Flexskarv",
+        "antal": "5",
+        "styckpris": "791.2487"
+    },
+    {
+        "ordernummer": 10025,
+        "artikel": "Taklampa Patrick",
+        "antal": "8",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Taklampa Jakarta",
+        "antal": "8",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Vägglampa Selma",
+        "antal": "9",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Takplafond Saturn",
+        "antal": "4",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10033,
+        "artikel": "Vägglampa Selma",
+        "antal": "3",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Takplafond Saturn",
+        "antal": "9",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Taklampa Jakarta",
+        "antal": "3",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Transformator Elektronisk",
+        "antal": "7",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Taklampa Glamour",
+        "antal": "2",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Flexskarv",
+        "antal": "7",
+        "styckpris": "669.0149"
+    },
+    {
+        "ordernummer": 10033,
+        "artikel": "Takplafond Saturn",
+        "antal": "6",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10033,
+        "artikel": "Flexskarv",
+        "antal": "10",
+        "styckpris": "791.2487"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Takplafond Saturn",
+        "antal": "6",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Taklampa Jakarta",
+        "antal": "2",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10033,
+        "artikel": "Taklampa Jakarta",
+        "antal": "4",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Taklampa Glamour",
+        "antal": "4",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Transformator Elektronisk",
+        "antal": "7",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Takplafond Arvika",
+        "antal": "4",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Taklampa Glamour",
+        "antal": "9",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Taklampa Patrick",
+        "antal": "7",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Spotlight Haloclip",
+        "antal": "6",
+        "styckpris": "745.2428"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Transformator Elektronisk",
+        "antal": "2",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Transformator Elektronisk",
+        "antal": "10",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Taklampa Jakarta",
+        "antal": "8",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Taklampa Jakarta",
+        "antal": "8",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Taklampa Glamour",
+        "antal": "9",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Transformator Elektronisk",
+        "antal": "9",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Spotlight Haloclip",
+        "antal": "3",
+        "styckpris": "745.2428"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Takplafond Arvika",
+        "antal": "10",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Taklampa Glamour",
+        "antal": "2",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Taklampa Patrick",
+        "antal": "6",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Takplafond Arvika",
+        "antal": "6",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10026,
+        "artikel": "Vägglampa Selma",
+        "antal": "2",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10026,
+        "artikel": "Transformator Elektronisk",
+        "antal": "7",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Vägglampa Selma",
+        "antal": "3",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Spotlight Haloclip",
+        "antal": "7",
+        "styckpris": "745.2428"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Vägglampa Selma",
+        "antal": "4",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10033,
+        "artikel": "Takplafond Arvika",
+        "antal": "2",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Takplafond Saturn",
+        "antal": "9",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Transformator Elektronisk",
+        "antal": "5",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10033,
+        "artikel": "Taklampa Glamour",
+        "antal": "8",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Vägglampa Selma",
+        "antal": "5",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Taklampa Patrick",
+        "antal": "3",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Flexskarv",
+        "antal": "8",
+        "styckpris": "791.2487"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Taklampa Patrick",
+        "antal": "4",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Vägglampa Selma",
+        "antal": "5",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10025,
+        "artikel": "Spotlight Haloclip",
+        "antal": "5",
+        "styckpris": "745.2428"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Transformator Elektronisk",
+        "antal": "5",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Taklampa Jakarta",
+        "antal": "7",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Takplafond Arvika",
+        "antal": "6",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Taklampa Glamour",
+        "antal": "6",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Spotlight Haloclip",
+        "antal": "8",
+        "styckpris": "745.2428"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Takplafond Saturn",
+        "antal": "8",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Vägglampa Selma",
+        "antal": "3",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Takplafond Arvika",
+        "antal": "4",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Taklampa Patrick",
+        "antal": "5",
+        "styckpris": "827.3325"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Takplafond Arvika",
+        "antal": "7",
+        "styckpris": "387.4746"
+    },
+    {
+        "ordernummer": 10027,
+        "artikel": "Takplafond Saturn",
+        "antal": "3",
+        "styckpris": "399.5653"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Taklampa Glamour",
+        "antal": "7",
+        "styckpris": "62.2069"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Transformator Elektronisk",
+        "antal": "1",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10034,
+        "artikel": "Transformator Elektronisk",
+        "antal": "6",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10032,
+        "artikel": "Spotlight Haloclip",
+        "antal": "2",
+        "styckpris": "745.2428"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Taklampa Jakarta",
+        "antal": "7",
+        "styckpris": "80.6383"
+    },
+    {
+        "ordernummer": 10028,
+        "artikel": "Transformator Elektronisk",
+        "antal": "10",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10030,
+        "artikel": "Transformator Elektronisk",
+        "antal": "5",
+        "styckpris": "456.1485"
+    },
+    {
+        "ordernummer": 10031,
+        "artikel": "Vägglampa Selma",
+        "antal": "8",
+        "styckpris": "843.8886"
+    },
+    {
+        "ordernummer": 10029,
+        "artikel": "Takplafond Arvika",
+        "antal": "7",
+        "styckpris": "387.4746"
+    }
+]
