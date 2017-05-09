@@ -4,7 +4,7 @@
 
 1.  `git clone https://github.com/arbetsprov/arbetsprov.git arbetsprov` 
 2.  `./start.sh`
-4.  `./setup`
+4.  `./setup.sh`
  
 ## Källkodsguide
 
