@@ -19,7 +19,7 @@ class OrdersContainer extends Component {
         var orders = api.get('/Orders')
         .then((result)=>{
             var list = Immutable.fromJS(result);
-            list = list.sort((a,b)=>a.get('tidpunkt')<b.get('tidpunkt')?-1:(a.get('tidpunkt')>b.get('tidpunkt')?1:0))
+            list = list.sort((a,b)=>a.get('tidpunkt')>b.get('tidpunkt')?-1:(a.get('tidpunkt')<b.get('tidpunkt')?1:0))
             this.setState({msg: list})
         })
         .catch((error)=>{
@@ -29,7 +29,7 @@ class OrdersContainer extends Component {
     }
 
     render () {
-        return <Table responsive>
+        return !this.state.msg.size?<div></div>:<Table responsive>
             <thead>
             <tr>
                 <th>Tid</th>
@@ -45,7 +45,7 @@ class OrdersContainer extends Component {
                         temp[i] = !temp[i]
                         this.setState({showChildren:temp})
                     }}>            
-                        <td>{e.get('tidpunkt')}</td>
+                        <td>{formatDate(new Date(e.get('tidpunkt')), '%Y-%M-%d %H:%m:%s')}</td>
                         <td>{e.get('ordernummer')}</td>
                         <td>{e.get('kund')}</td>
                     </tr>,         
@@ -83,7 +83,7 @@ class OrdersContainer extends Component {
                     <tr>                                    
                         <td>
                             <h3>
-                                Total: 
+                                Total:  
                                 {Math.round(100* this.state.msg.reduce(
                                             (r,order)=>r+order.get('rows').reduce(
                                                     (rr,row)=>rr+(row.get('antal')*row.get('styckpris'))
@@ -112,3 +112,29 @@ const mapDispatchToProps = (dispatch, { limit }) => ({
 })
 
 export default connect(mapStateToProps, mapDispatchToProps)(OrdersContainer)
+
+
+//https://stackoverflow.com/questions/2315408/how-do-i-format-a-timestamp-in-javascript-to-display-it-in-graphs-utc-is-fine#2315590
+function formatDate(date, fmt) {
+    function pad(value) {
+        return (value.toString().length < 2) ? '0' + value : value;
+    }
+    return fmt.replace(/%([a-zA-Z])/g, function (_, fmtCode) {
+        switch (fmtCode) {
+        case 'Y':
+            return date.getUTCFullYear();
+        case 'M':
+            return pad(date.getUTCMonth() + 1);
+        case 'd':
+            return pad(date.getUTCDate());
+        case 'H':
+            return pad(date.getUTCHours());
+        case 'm':
+            return pad(date.getUTCMinutes());
+        case 's':
+            return pad(date.getUTCSeconds());
+        default:
+            throw new Error('Unsupported format code: ' + fmtCode);
+        }
+    });
+}
