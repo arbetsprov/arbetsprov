@@ -9,7 +9,7 @@
  
 ## Källkodsguide
 
-Intressant filer är följande
+Intressanta filer
 
 
 1. Backend
