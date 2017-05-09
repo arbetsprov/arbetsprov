@@ -11,4 +11,4 @@ cd ../frontend
 # winpty docker run -ti --name frontend --rm -p 3000:3000 -v "c:\Users\Emil\Documents\work\arbetsprov\frontend":/usr/src/app -w /usr/src/app node bash
 
 #i normal posix-miljö
-#docker run -ti --name frontend --rm -p 3000:3000 -v $(pwd):/app -w /app --net=host node bash
+docker run -ti --name frontend --rm -p 3000:3000 -v $(pwd):/app -w /app --net=host node bash
